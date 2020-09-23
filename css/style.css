@@ -17,10 +17,7 @@ input {
 	width: 90%;
 	margin: 10px 0;
 	padding: 15px;
-	border-top-style: dashed;
-	border-right-style: solid;
-	border-bottom-style: dashed;
-	border-left-style: solid;
+	border-style: solid;
 	border-radius: 15px 15px 15px 15px;
 }
   
@@ -39,6 +36,10 @@ input {
 	text-align: left;
 	width: 50%;
 	padding: 25px 50px;
+	border-top-style: dashed;
+	border-right-style: solid;
+	border-bottom-style: dashed;
+	border-left-style: solid;
 }
 
 }
