@@ -1,5 +1,6 @@
 body {
 	text-align: center;
+	background-color: #0dbc78;
 }
 h1 {
 	font-size: 40pt;
@@ -11,14 +12,21 @@ label {
 	font-size: 20pt;
 }
 input {
-	
+	width: 90%;
 }
 input[type=submit] {
-
+	
 }
+
 /*Desktop Page*/
 @media only screen and (min-width: 850px){
+body {
+	background-color: #eb902d;
+}
 
+input {
+	width: 50%;
+}
 
 
 
