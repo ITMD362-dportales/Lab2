@@ -1,1 +1,19 @@
+body{
+	text-align: center;
+}
+h1{
+	font-size: 40pt;
+}
+form{
+	
+}
+label{
+	font-size: 20pt;
+}
+/*Desktop Page*/
+@media only screen and (min-width: 850px){
 
+
+
+
+}
