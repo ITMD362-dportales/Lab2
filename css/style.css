@@ -17,6 +17,7 @@ input {
 	width: 90%;
 	margin: 10px 0;
 	padding: 15px;
+	border-style: solid;
 }
   
 input[type=submit] {
